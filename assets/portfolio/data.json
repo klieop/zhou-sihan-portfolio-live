@@ -1,0 +1,63 @@
+﻿{
+  "person": {
+    "name": "周思涵",
+    "title": "视觉传达设计师",
+    "class": "视觉传达设计 2303 班",
+    "tagline": "Brand / Poster / UI / Layout",
+    "intro": "视觉传达设计专业大三学生，关注品牌视觉、平面设计、新媒体视觉与 UI 设计。具备扎实的设计基础与项目执行能力，能够独立完成品牌视觉、海报、UI 界面及版式设计等项目。",
+    "goal": "希望通过持续实践积累项目经验，成长为兼具创新思维与落地能力的视觉设计师。",
+    "skills": ["Photoshop", "Illustrator", "InDesign", "Figma", "After Effects", "Midjourney", "Codex"]
+  },
+  "experience": [
+    {"title": "全国大学生广告艺术大赛（大广赛）", "detail": "参与赛事并取得名次，积累命题创意与商业传播经验。"},
+    {"title": "2024 中国大学生文化创意设计大赛", "detail": "参与两岸高校艺术设计展，拓展文化创意与展览表达视野。"},
+    {"title": "支付宝首页视觉优化 UI 练习", "detail": "分析路径、重构层级、建立 Design System，输出高保真设计稿。"},
+    {"title": "扬子江食品包装设计", "detail": "完成 VI 设计、竞品分析、Logo 延展与品牌视觉规范。"}
+  ],
+  "projects": [
+    {
+      "id": "ip",
+      "number": "01",
+      "category": "IP DESIGN",
+      "title": "古蜀萌韵",
+      "subtitle": "青铜人面像表情包及衍生设计",
+      "context": "云南考察 / 甲马新生 IP 创新项目",
+      "summary": "以三星堆文物为原型，提取青铜人像的典型特征，转译为 Q 版表情、IP 配色、创意海报与衍生品系统，让传统文化以更轻快的视觉语言进入日常生活。",
+      "tags": ["Cultural IP", "Expression Pack", "Derivative Design"],
+      "images": ["ip-sanxingdui.jpg"]
+    },
+    {
+      "id": "yangzijiang",
+      "number": "02",
+      "category": "BRAND VISUAL / PACKAGING",
+      "title": "扬子江食品",
+      "subtitle": "老招牌 Logo + 江城九味包装系统",
+      "context": "包装设计与品牌标识",
+      "summary": "围绕传统点心与武汉城市文化，完成 VI 设计、竞品分析、Logo 与应用延展。项目通过地域插画、品类信息和货架场景，建立稳重、亲和且具有地域识别度的食品品牌视觉。",
+      "tags": ["VI Design", "Logo", "Packaging", "City Illustration"],
+      "images": ["yangzijiang-packaging-grid.jpg", "yangzijiang-logo.jpg", "yangzijiang-city-series.jpg", "yangzijiang-box-mockup.jpg"]
+    },
+    {
+      "id": "book",
+      "number": "03",
+      "category": "BOOK DESIGN",
+      "title": "城边野境",
+      "subtitle": "纪实书籍设计与周边延展",
+      "context": "封面系统 / 内页版式 / 收藏周边",
+      "summary": "以城市边缘的被遗忘空间为观察对象，使用克制的灰绿封面、摄影图像与留白版式，形成安静、克制且带有现场感的阅读体验。树木插画与自然意象进一步延展到礼盒和杯具载体。",
+      "tags": ["Editorial Design", "Photography", "Peripheral", "Art Book"],
+      "images": ["wild-border-book-cover.png", "wild-border-folding-book.jpg", "wild-border-inner-pages.jpg", "wild-border-gift-box.jpg", "wild-border-cup.jpg"]
+    },
+    {
+      "id": "happyli",
+      "number": "04",
+      "category": "BRAND IDENTITY",
+      "title": "幸福里养老院",
+      "subtitle": "亲和、可信的养老品牌识别系统",
+      "context": "策略梳理 / 角色设定 / Logo 系统 / 应用延展",
+      "summary": "围绕养老院品牌定位，梳理用户需求、竞品风格与传播场景；以“幸”字结构和照护场景推导图形语言，并将识别系统延展至文具、纸杯、手提袋、胸章、员工服、门牌与办公用品。",
+      "tags": ["Brand Strategy", "Identity System", "Application Design"],
+      "images": ["happyli-strategy.jpg", "happyli-logo-system.jpg", "happyli-applications.jpg"]
+    }
+  ]
+}
